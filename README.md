@@ -4,7 +4,7 @@
 
 **Wallpaper Mage** is a free, open-source animated wallpaper app for macOS. It plays videos and **Wallpaper Engine scenes** as your desktop wallpaper, a different one on every display if you like, plays playlists of wallpapers with transitions between them, keeps the lock screen and menu bar in step with a still of it, and downloads wallpapers from the **Steam Workshop** with your own Steam account.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/63fbd8e6-3fe8-47f9-86eb-d1b207efe98a" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/63fbd8e6-3fe8-47f9-86eb-d1b207efe98a" />
 
 ## Features
 

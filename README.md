@@ -50,3 +50,5 @@ Not affiliated with Valve or Wallpaper Engine. Downloads use Valve's own SteamCM
 ## License
 
 [MIT](LICENSE)
+
+This is a fork of [LiveWallpaper](https://github.com/NOOB-3301/LiveWallpaper) by NOOB-3301.

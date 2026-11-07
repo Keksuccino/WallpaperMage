@@ -47,8 +47,9 @@
 
 Not affiliated with Valve or Wallpaper Engine. Downloads use Valve's own SteamCMD with your own account, for personal use on your Mac. Workshop items belong to their creators; do not redistribute them.
 
-## License
+## License & Copyright
 
-[MIT](LICENSE)
+Wallpaper Mage © Copyright 2026 Keksuccino. Original project © Copyright by NOOB-3301.<br>
+Wallpaper Mage is licensed under [MIT](LICENSE).
 
 This is a fork of [LiveWallpaper](https://github.com/NOOB-3301/LiveWallpaper) by NOOB-3301.
